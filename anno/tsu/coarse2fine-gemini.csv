@@ -1,0 +1,52 @@
+coarse-grained,fine-grained
+Get ready,Get_water
+Get ready,Get_up
+Prepare food,Make_tea.Boil_water
+Clean up,Clean_dishes.Clean_with_water
+Prepare food,Breakfast.Spread_jam_or_butter
+Use appliance,Use_tablet
+Use appliance,Watch_TV
+Use appliance,Read
+Prepare food,Breakfast.Take_ham
+Prepare food,Pour.From_can
+Get ready,Leave
+Other,Put_something_on_table
+Get ready,Enter
+Prepare food,Make_coffee
+Prepare food,Breakfast.Cut_bread
+Cook,Cook.Use_stove
+Other,Drink.From_glass
+Clean up,Dump_in_trash
+Cook,Cook.Cut
+Other,Drink.From_bottle
+Other,Drink.From_can
+Clean up,Clean_dishes
+Clean up,Clean_dishes.Put_something_in_sink
+Use appliance,Use_telephone
+Other,Write
+Use appliance,Use_fridge
+Prepare food,Insert_tea_bag
+Cook,Cook.Use_oven
+Prepare food,Make_tea
+Clean up,Clean_dishes.Dry_up
+Prepare food,Make_coffee.Pour_grains
+Use appliance,Use_glasses
+Use appliance,Use_laptop
+Other,Lay_down
+Prepare food,Pour.From_bottle
+Prepare food,Breakfast.Eat_at_table
+Other,Take_something_off_table
+Other,Sit_down
+Cook,Cook.Stir
+Use appliance,Use_cupboard
+Other,Drink.From_cup
+Use appliance,Use_Drawer
+Prepare food,Eat_snack
+Prepare food,Stir_coffee/tea
+Clean up,Wipe_table
+Cook,Cook
+Other,Walk
+Prepare food,Breakfast
+Prepare food,Make_coffee.Pour_water
+Prepare food,Pour.From_kettle
+Get ready,Take_pills

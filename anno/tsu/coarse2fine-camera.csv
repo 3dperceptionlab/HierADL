@@ -1,0 +1,52 @@
+coarse-grained,fine-grained
+kitchen,Get_water
+kitchen,Make_tea.Boil_water
+any,Get_up
+kitchen,Clean_dishes.Clean_with_water
+dining room,Breakfast.Spread_jam_or_butter
+living room,Use_tablet
+living room,Watch_TV
+living room,Read
+kitchen,Breakfast.Take_ham
+kitchen,Pour.From_can
+any,Leave
+dining room,Put_something_on_table
+any,Enter
+kitchen,Make_coffee
+kitchen,Breakfast.Cut_bread
+kitchen,Cook.Use_stove
+dining room,Drink.From_glass
+kitchen,Dump_in_trash
+kitchen,Cook.Cut
+kitchen,Drink.From_bottle
+kitchen,Drink.From_can
+kitchen,Clean_dishes
+kitchen,Clean_dishes.Put_something_in_sink
+living room,Use_telephone
+living room,Write
+kitchen,Use_fridge
+kitchen,Insert_tea_bag
+kitchen,Cook.Use_oven
+kitchen,Make_tea
+kitchen,Clean_dishes.Dry_up
+kitchen,Make_coffee.Pour_grains
+kitchen,Use_glasses
+living room,Use_laptop
+living room,Lay_down
+kitchen,Pour.From_bottle
+dining room,Breakfast.Eat_at_table
+dining room,Take_something_off_table
+living room,Sit_down
+kitchen,Cook.Stir
+kitchen,Use_cupboard
+dining room,Drink.From_cup
+kitchen,Use_Drawer
+kitchen,Eat_snack
+kitchen,Stir_coffee/tea
+kitchen,Wipe_table
+kitchen,Cook
+any,Walk
+kitchen,Breakfast
+kitchen,Make_coffee.Pour_water
+kitchen,Pour.From_kettle
+kitchen,Take_pills

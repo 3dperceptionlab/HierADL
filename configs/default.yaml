@@ -1,0 +1,42 @@
+name: "default"
+seed: 1024
+eval: False # train or eval mode
+load: # Path to the weights for evaluation
+data:
+  dataset: # tsu or etri
+  anno_path: # path to anno
+  data_path: # path to features
+  coarse_action_source:   # hierarchicalTSU camera gpt gemini 
+  rgb_features: 'ViT-H-14' 
+  workers: 8
+  batch_size: 32
+  enc_steps: 32
+model:
+  pretrained:  # Path to pretrained video model
+  pretrained_dim: 768 
+  video_transformer: # if no pretrained model is used
+    embedding_dim: 768 
+    num_heads: 1 
+    cls_token: True # if False, uses mean
+    positional_encoding: 'learned'
+    pe_dropout: 0.1
+    dropout: 0.1
+    num_layers: 4
+    hidden_dim: 2048 # 1024 512
+solver:
+  epochs: 100
+  type: 'multistep' # multistep cosine
+  lr_warmup_step: 5
+  f_ratio: 1
+  weight_decay: 0.1
+  loss: 'cross-entropy'
+  lr: 0.00005 
+  lr_decay_step: 100 
+  lr_decay_factor: 0.1
+  optim: 'adamw'
+  clip_grad_norm: 1
+  eval_freq: 1
+  early_stopping: 20
+logging:
+  freq: 10
+  

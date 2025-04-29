@@ -1,0 +1,12 @@
+Hydration
+Making_Tea
+Making_Coffee
+Making_Breakfast
+Cooking
+Eating
+Taking_Medicine
+Cleaning
+Using_Furniture
+Using_Appliances
+Recreation
+Walking
