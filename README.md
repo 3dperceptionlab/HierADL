@@ -1,6 +1,8 @@
 # HierADL
+Pytorch implementation of the HierADL framework.
 
-**HierADL** is a PyTorch implementation of the Hierarchical Adaptive Deep Learning (HierADL) framework.
+## Hierarchical Annotations
+You may find the resulting fine-grained and coarse-grained labels in the `anno` directory for ETRI and TSU datasets.
 
 ## 🚀 Getting Started
 
